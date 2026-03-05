@@ -2,6 +2,11 @@
 
 YOLO 딥러닝 모델을 활용한 스마트폰 손상 검출 및 등급 판별 시스템입니다.
 
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/2825353b-b930-4212-9116-0257b6b1b9fc)
+
+
+# https://www.youtube.com/watch?v=qCleDLR3SwY
+
 ## 프로젝트 개요
 
 이 프로젝트는 Flutter 모바일 앱과 Python FastAPI 서버로 구성된 AI 기반 스마트폰 검사 시스템입니다. YOLO v8 Segmentation 모델을 사용하여 스마트폰 이미지에서 손상을 자동으로 검출하고, 가중치 기반 점수 시스템으로 등급을 산정합니다.
